@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development. 
 - 💞️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps push the blockchaiin/crypto space forward. 
 - 📫 Reach me at samlarson94@gmail.com | samlarson.io
-- 🎥 I'm also a videographer - say hi at studio31G.com
+- 🎥 I'm also a videographer - Say hi at studio31G.com
 
 <!---
 samlarson94/samlarson94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
