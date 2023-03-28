@@ -1,6 +1,6 @@
 - 🤠 Howdy, I’m @samlarson94
 - 👀 I’m a full-stack dev building tools for the AEC Industry. 
-- 🛠️ As a former construction manager, my mission is to build tech that makes it easier for us to build the world around us.
+- 🛠️ As a former construction manager, my mission is to build tech that makes it easier to build the world around us.
 - 🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps push the decentralized-finance space forward.
 - XP: Python Django, MERN, MS Power Apps.
 - 📫 Reach me at www.samlarson.tech | www.samlarson.io
