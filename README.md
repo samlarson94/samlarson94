@@ -9,3 +9,22 @@
 samlarson94/samlarson94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<table>
+    <tr>
+        <th>Blog</th>
+        <th>Tech Site</th>
+        <th>Video Work</th>
+    </tr>
+    <tr>
+        <td>
+           <a href="https://samlarson.io">🌐</a>
+        </td>
+        <td>
+            <a href="https://www.samlarson.tech">📃</a>
+        </td>
+        <td>
+            <a href="https://www.studio31g.com">🎥</a>
+        </td>
+    </tr>
+</table>
