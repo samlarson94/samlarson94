@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <table>
     <tr>
-        <th>Blog</th>
+        <th>Personal Blog</th>
         <th>Tech Site</th>
         <th>Video Work</th>
     </tr>
