@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
            <a href="https://samlarson.io">samlarson.io 🌐</a>
         </td>
         <td>
-            <a href="https://www.samlarson.tech">samlarson.tech 💻</a>
+            <a href="https://www.samlarson.tech">samlarson.tech 💻 (Under Construction)</a>
         </td>
         <td>
             <a href="https://www.studio31g.com">Studio 31G 🎥</a>
