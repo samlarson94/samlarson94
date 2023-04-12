@@ -3,7 +3,7 @@
 - 🛠️ As a former construction manager, my mission is to build tech that makes it easier to build the world around us.
 - 🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps push the decentralized-finance space forward.
 - 💼: Python, Django, MERN, MS Power Apps, Wordpress. Currently learning Shopify CMS. 
-- 📫 Reach me at www.samlarson.tech | www.samlarson.io
+- 📫 Reach me at www.samlarson.io
 - 🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com 👋
 <!---
 samlarson94/samlarson94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
