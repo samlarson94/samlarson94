@@ -11,7 +11,7 @@ samlarson94/samlarson94 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-<table style="text-align: center;">
+<table>
     <tr>
         <th>Personal Blog</th>
         <th>Tech Site</th>
