@@ -2,7 +2,7 @@
 - 👀 I’m a full-stack dev building tools for the AEC Industry (Architecture, Engineering, and Construction). 
 - 🛠️ As a former construction manager, my mission is to build tech that makes it easier to build the world around us.
 - 🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.
-- 💼: Python, Django, JavaScript, MERN. Wordpress, MS Power Apps & Power Automate. Currently learning Shopify's liquid template engine for a new project.
+- 💼: Python, Django, JavaScript, MERN. Wordpress (php), MS Power Apps & Power Automate. Currently learning Shopify's liquid template engine for a new project.
 - 📫 You can reach me at www.samlarson.io
 - 🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com
 
