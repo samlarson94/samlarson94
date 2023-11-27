@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Sam Larson</h1>
 <h3 align="center">I’m a full-stack dev building tools for the AEC Industry (Architecture, Engineering, and Construction).</h3>
 
-<h3 align="left">About:</h3>
+<h3 align="left">30 Second Bio:</h3>
 <ul>
   <li>🚀 Currently building full-stack web solutions for the construction industry.</li>
   <li>📚 Studying machine learning and data science at the University of Texas 🤘.</li>
