@@ -3,10 +3,10 @@
 
 <h3 align="left">About:</h3>
 <ul>
-  <li>🚀 I’m currently building full-stack web solutions for the construction industry.</li>
-  <li>📚 I'm currently studying machine learning and data science at the University of Texas 🤘.</li>
+  <li>🚀 Currently building full-stack web solutions for the construction industry.</li>
+  <li>📚 Studying machine learning and data science at the University of Texas 🤘.</li>
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
-  <li>👨‍💻 You can view some of my projects on [samlarson.tech](samlarson.tech)</li>
+  <li>👨‍💻 You can view some of my projects on [samlarson.tech](samlarson.tech) -- Under Construction</li>
   <li>💻 You can reach me at [samlarson.io](samlarson.io)</li>
   <li>🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com</li>
   <li>📄 LinkedIn: [https://www.linkedin.com/in/sam-larson-minneapolis/](https://www.linkedin.com/in/sam-larson-minneapolis/)</li>
