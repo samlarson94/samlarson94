@@ -4,7 +4,7 @@
 <h3 align="left">30 Second Bio:</h3>
 <ul>
   <li>🚀 Currently building full-stack web solutions for the construction industry.</li>
-  <li>📚 Studying machine learning and data science at the University of Texas 🤘.</li>
+  <li>📚 Studying machine learning and data science at the University of Texas at Austin 🤘.</li>
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
   <li>👨‍💻 You can view some of my projects on <a href="samlarson.tech" target="_blank">samlarson.tech</a> -- Under Construction</li>
   <li>💻 You can reach me at <a href="samlarson.io" target="_blank">samlarson.io</a></li>
