@@ -9,7 +9,7 @@
   <li>👨‍💻 You can view some of my projects on www.samlarson.tech -- Under Construction</li>
   <li>💻 You can reach me at www.samlarson.io</li>
   <li>🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com</li>
-  <li>📄 Visit my LinkedIn --> https://www.linkedin.com/in/sam-larson-minneapolis/ </li>
+  <li>📄 Visit my LinkedIn - https://www.linkedin.com/in/sam-larson-minneapolis/ </li>
 </ul>
 <br>
 <h3 align="left">Experienced in Full-Stack Web Development (Django & MERN)</h3>
