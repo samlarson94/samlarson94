@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Sam Larson</h1>
-<h3 align="center">I’m a full-stack dev building tools for the AEC Industry (Architecture, Engineering, and Construction).</h3>
+<h3 align="center">I’m a full-stack dev building tools for the AEC Industry.</h3>
 
 <h3 align="left">30 Second Bio:</h3>
 <ul>
