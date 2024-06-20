@@ -3,7 +3,8 @@
 
 <h3 align="left">30 Second Bio:</h3>
 <ul>
-  <li>🚀 Currently building full-stack web solutions for the construction industry.</li>
+  <li>🛠️ Currently building full-stack web solutions for the construction industry.</li>
+  <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python backends. Python data analysis & visualization.</li>
   <li>📚 Studying machine learning and data science at the University of Texas at Austin 🤘.</li>
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
   <li>💻 You can reach me at www.samlarson.io</li>
@@ -11,7 +12,7 @@
   <li>📄 Visit my LinkedIn - https://www.linkedin.com/in/sam-larson-minneapolis/ </li>
 </ul>
 <br>
-<h3 align="left">Experienced in Full-Stack Web Development (Django & MERN)</h3>
+<h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack)</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
