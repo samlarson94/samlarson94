@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Sam Larson</h1>
 <h3 align="center">I’m a full-stack dev building tools for the AEC Industry.</h3>
 
-<h3 align="left">60 Second Bio:</h3>
+<h3 align="left">30 Second Bio:</h3>
 <ul>
   <li>🛠️ Currently building full-stack web solutions for the construction industry.</li>
   <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python backends. Python data analysis & visualization.</li>
