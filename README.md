@@ -1,10 +1,11 @@
 <h1 align="center">Howdy, I'm Sam 👋</h1>
 <h3 align="center">I’m a full-stack dev building tools for the AEC Industry.</h3>
 
-<h3 align="left">30 Second Bio:</h3>
+<h3 align="left">60 Second Bio:</h3>
 <ul>
+  <li>🌲 Born and raised in MN.</li>
   <li>🛠️ Currently building full-stack web solutions for the construction industry.</li>
-  <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python backends. Python data analysis & visualization.</li>
+  <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python backends. Python for data analysis & visualization.</li>
   <li>📚 Studying machine learning and data science at the University of Texas at Austin 🤘.</li>
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
   <li>💻 You can reach me at www.samlarson.io</li>
