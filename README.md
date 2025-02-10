@@ -10,7 +10,7 @@
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
   <li>💻 You can reach me at www.samlarson.io</li>
   <li>🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com</li>
-  <li>📄 Visit my LinkedIn - https://www.linkedin.com/in/sam-larson-minneapolis/ </li>
+  <li>📄 Visit my LinkedIn - https://www.linkedin.com/in/sam-larson-minneapolis/</li>
 </ul>
 <br>
 <h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack)</h3>
