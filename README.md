@@ -4,7 +4,7 @@
 <h3 align="left">60 Second Bio:</h3>
 <ul>
   <li>🌲 Born and raised in Minnesota.</li>
-  <li>🛠️ Currently building full-stack web solutions for the construction industry. Especially in love w/ building snappy React front-ends.</li>
+  <li>🛠️ Currently building full-stack web solutions for the construction industry. Specifically in love w/ building blazing fast React front ends w/ snappy graphics.</li>
   <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python (Django) backends. Python for data analysis & visualization.</li>
   <li>📚 Studied Construction Management at NDSU. Machine learning and data science at the University of Texas at Austin 🤘. MBA candidate at St Thomas now.</li>
   <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
