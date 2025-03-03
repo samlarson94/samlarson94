@@ -3,7 +3,7 @@
 
 <h3 align="left">60 Second Bio:</h3>
 <ul>
-  <li>🌲 Born and raised in Minnesota.</li>
+  <li>🌲 Born and raised in MN.</li>
   <li>🛠️ Currently building full-stack web solutions for the construction industry. Specifically in love w/ building blazing fast React front ends w/ snappy graphics.</li>
   <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python (Django) backends. Python for data analysis & visualization.</li>
   <li>📚 Studied Construction Management at NDSU. Machine learning and data science at the University of Texas at Austin 🤘. MBA candidate at St Thomas now.</li>
