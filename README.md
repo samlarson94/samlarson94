@@ -16,7 +16,7 @@
 <h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack)</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,py,js,jquery,react,redux,mongodb,express,nodejs,jquery,postgres,heroku,firebase,ts,html,css,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,py,django,git,js,jquery,mongodb,express,nodejs,jquery,postgres,heroku,firebase,html,css,wordpress" />
   </a>
 </p>
 <br>
