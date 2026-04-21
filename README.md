@@ -13,7 +13,7 @@
   <li>🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com</li>
 </ul>
 <br>
-<h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack)</h3>
+<h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack), Data Analysis & Visualization, Custom MCPs and LLM-powered Applications.</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,py,django,git,js,jquery,mongodb,express,nodejs,jquery,postgres,heroku,firebase,html,css,wordpress" />
