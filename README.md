@@ -35,6 +35,5 @@
 </p>
 
 ### Find me
-<div align="center">
+
 🌐 [samlarson.io](https://www.samlarson.io) · ✍️ [The Build Thesis](https://substack.com/@samlarson) · 🏗️ [Lake City Labs](https://www.lakecitylabs.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sam-larson-minneapolis/)
-</div>
