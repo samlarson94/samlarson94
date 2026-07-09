@@ -1,58 +1,39 @@
-<h1 align="center">Howdy, I'm Sam 👋</h1>
-<h3 align="center">I’m a full-stack dev building tools for the AEC Industry.</h3>
+<p align="center">
+  <img src="./hero.svg" alt="Sam Larson — ASCII portrait and profile card" width="100%">
+</p>
 
-<h3 align="left">60 Second Bio:</h3>
-<ul>
-  <li>🌲 Born and raised in MN.</li>
-  <li>🛠️ Currently building full-stack web solutions for the construction industry. Specifically love building blazing fast React front-ends and data pipelines to feed them.</li>
-  <li>🚀 Well versed in vanilla JS & React front-ends. Node & Python (Django) backends. Python for data analysis & visualization. Typescript has become my new best friend.</li>
-  <li>📚 Studied Construction Management at NDSU. Machine learning and data science at the University of Texas at Austin 🤘. MBA candidate at St Thomas now.</li>
-  <li>🏗️ I’m looking to collaborate on any open source project that benefits the AEC and Real Estate industries, helps save the planet, or helps us live healthier lives.</li>
-  <li>💻 You can reach me at www.samlarson.io</li>
-  <li>📄 Visit my LinkedIn - https://www.linkedin.com/in/sam-larson-minneapolis/</li>
-  <li>🎥 I'm also an avid videographer & photographer - Say hi at www.studio31g.com</li>
-</ul>
-<br>
-<h3 align="left">Experienced in Full-Stack Web Development (Python Django & MERN Stack), Data Analysis & Visualization, Custom MCPs and LLM-powered Applications.</h3>
+### 60-second bio
+
+- 🌲 Born and raised in Minnesota.
+- 🏗️ I build full-stack web tools for construction — blazing-fast React front-ends and the data pipelines that feed them.
+- 🤖 Lately: agentic workflows for real industry problems — standing up coding agents, building custom MCP tooling, wiring AI into CRMs, and shaping data lakes so front-end users can work with data agentically. Examples at [samlarson.io](https://www.samlarson.io).
+- ✍️ I write [The Build Thesis](https://substack.com/@samlarson), a newsletter on applied AI in construction, and run [Lake City Labs](https://www.lakecitylabs.com), an AI consulting practice for mid-sized GCs.
+- 🤝 Open to collaborating on open source that benefits the AEC and real estate industries, the planet, or healthier living.
+
+### Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,py,django,git,js,jquery,mongodb,express,nodejs,jquery,postgres,heroku,firebase,html,css,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,express,py,django,postgres,mongodb,firebase,git&perline=6" alt="TypeScript, JavaScript, React, Redux, Node, Express, Python, Django, Postgres, MongoDB, Firebase, Git" />
   </a>
 </p>
-<br>
-<h3 align="left">Experienced in Data Analysis, Visualization, and Machine Learning Models</h3>
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
+**Data & ML**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&perline=6" alt="scikit-learn, TensorFlow" />
+  </a>
+  &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48" />
+  </a>
+</p>
+
+### Find me
+
+🌐 [samlarson.io](https://www.samlarson.io) · ✍️ [The Build Thesis](https://substack.com/@samlarson) · 🏗️ [Lake City Labs](https://www.lakecitylabs.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sam-larson-minneapolis/)
