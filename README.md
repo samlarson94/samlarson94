@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./hero.svg" alt="Sam Larson — ASCII portrait and profile card" width="100%">
-</p>
+</p> -->
 
 ### 60-second bio
 
